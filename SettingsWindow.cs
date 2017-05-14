@@ -2,10 +2,6 @@
 using UnityEditor;
 using System;
 using System.Reflection;
-using System.Reflection.Emit;
-using System.Text.RegularExpressions;
-using System.Linq;
-using System.Collections.Generic;
 
 public class SettingsWindow
 {
