@@ -2,11 +2,11 @@
 Menu shortcuts for opening Unity project settings in a window rather than in the Inspector.
 
 Has this ever happened to you?
-You're editing a light's bias, and you need to change your quality settings.
-You go to Edit/Project settings/Quality and tweak something.
-Your light was deselected, so you reselect it, and tweak something else about the light.
-Now your quality settings need more tweaking, so you go back.
+
+You're editing a light's bias, and you need to change your quality settings. You go to Edit/Project settings/Quality and tweak something. Now your light was deselected, so you reselect it, and tweak something else about the light. Now your quality settings need more tweaking, so you go back through Edit/Project settings/Quality.
+
 Ad infinitum...
+
 This script solves that by making it super easy to open your project settings in a window so you can have both side-by-side or in tabs.
 
 # To Install: 
