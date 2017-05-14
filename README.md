@@ -9,6 +9,8 @@ Ad infinitum...
 
 This script solves that by making it super easy to open your project settings in a window so you can have both side-by-side or in tabs.
 
+Note that this uses some ugly reflection hacks to access internal classes so I can't guarantee long-term compatibility. Tested in Unity 5.6.0f3.
+
 # To Install: 
 Drop `SettingsWindow.cs` into `Assets/Editor/`
 
@@ -24,4 +26,3 @@ This script does the same thing as following these steps:
 3. Lock the new inspector tab, so the object it's editing can't change
 4. Reselect whatever gameobjects or assets that were previously selected
 
-Tested in Unity 5.6.0f3.
