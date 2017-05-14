@@ -19,7 +19,9 @@ Select one of the new menu items that appear like so in these menus:
 "Edit/Project Settings/Input (in a new window)"
 "Window/Project Settings/Input"
 
-This script does the same thing as following these steps:
+# &nbsp;
+
+*footnote:* This script does the same thing as following these steps:
 
 1. Create a new Inspector tab by right-clicking on any window tab
 2. Selecting Edit/Project Settings/(some selection)
